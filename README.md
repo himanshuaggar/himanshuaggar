@@ -1,4 +1,4 @@
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0FQ9Q36OJXlFIvJ6kyGI9i&ust=1710769706928000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi4vPe3-4QDFQAAAAAdAAAAABAE)
+![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Himanshu Aggarwal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <hr>
@@ -54,18 +54,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
-
-<!-- - 👋 Hi, I’m @himanshuaggar
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning backend devlopment
-- 💞️ I’m looking to collaborate on any project related to web devlopment
-- 📫 How to reach me himanshuaggar00@gmail.com
-
-<!---
-himanshuaggar/himanshuaggar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
